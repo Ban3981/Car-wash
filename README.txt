@@ -1,0 +1,1 @@
+This project should simulate work of one car-wash place.
